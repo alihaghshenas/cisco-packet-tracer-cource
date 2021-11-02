@@ -6,6 +6,7 @@ playlist: https://www.youtube.com/playlist?list...
 here is the list of things we have learned in this course :
 
 -interface of cisco packet tracer
+
 -connection between 2 computers                               t1
 
 -connection throw switch                                      t2
