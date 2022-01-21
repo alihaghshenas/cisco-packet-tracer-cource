@@ -1,7 +1,7 @@
 # cisco-packet-tracer-cource
 all the files related to the cisco packet tracer course published on youtube
 
-playlist: https://www.youtube.com/playlist?list...
+playlist: https://www.youtube.com/playlist?list=PLVFyjfF2Drdt9hXs37KTPTIqtNVCXFfOG
 
 here is the list of things we have learned in this course :
 
